@@ -1,6 +1,6 @@
 # KaiserAmulation
 A project developed in Kinesis Studio. The goal is tracking people and objects in the patient's room。
-All code are done by me.
+All code uploaded above are written by me.
 
 The most of the code are about object tracking. At begining, I used the SURF algorithm but it run very slow in the unity scene. 
 So the final solution is to use infrad camera to track the reflective material instead of tracking a specific image pattern.
